@@ -41,16 +41,14 @@ The project is organized based on the **MVVM** pattern:
 Here are some screenshots of the app in action:
 
 ### Navigation Graph
-<img src="Preview/nav.png" alt="Navigation Graph" width="600">
+<img src="Preview/nav.png" alt="Navigation Graph" width="350">
 
-### Home Screen and Notes List
+### Home Screen, Notes List and Biometric Authentication
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="Preview/home.jpg" alt="Home Screen" width="300">
-  <img src="Preview/notes.jpg" alt="Notes List" width="300">
+  <img src="Preview/home.jpg" alt="Home Screen" height="600">
+  <img src="Preview/notes.jpg" alt="Notes List" height="600">
+  <img src="Preview/add.jpg" alt="Add Note" height="600">
 </div>
-
-### Add Note with Biometric Authentication
-<img src="Preview/add.jpg" alt="Add Note" width="400">
 
 ### Horizontal Layout
 <img src="Preview/horizontal.jpg" alt="Horizontal Layout" width="600">
