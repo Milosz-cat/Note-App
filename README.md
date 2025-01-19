@@ -72,6 +72,3 @@ Here are some screenshots of the app in action:
     Launch Android Studio.
     From the welcome screen, select "Open" or go to File > Open....
     Navigate to the folder where the repository was cloned and select the project directory.
-
-
-
