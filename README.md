@@ -1,6 +1,6 @@
 # The Notes App
 
-**The Notes App** is a feature-rich Android application written in Kotlin. It allows users to create, edit, and manage notes securely and efficiently. The app is built using modern Android technologies and adheres to best practices in mobile development.
+**The Notes App** is Android application written in Kotlin. It allows users to create, edit, and manage notes securely and efficiently.
 
 ---
 
