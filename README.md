@@ -40,23 +40,22 @@ The project is organized based on the **MVVM** pattern:
 ## 🔍 Preview
 Here are some screenshots of the app in action:
 
-### Add Note
-![Add Note](Preview/add.jpg)
+### Navigation Graph
+<img src="Preview/nav.png" alt="Navigation Graph" width="600">
 
-### Biometric Authentication
-![Biometric Authentication](Preview/biometric.jpg)
+### Home Screen and Notes List
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="Preview/home.jpg" alt="Home Screen" width="300">
+  <img src="Preview/notes.jpg" alt="Notes List" width="300">
+</div>
 
-### Home Screen
-![Home Screen](Preview/home.jpg)
+### Add Note with Biometric Authentication
+<img src="Preview/add.jpg" alt="Add Note" width="400">
 
 ### Horizontal Layout
-![Horizontal Layout](Preview/horizontal.jpg)
+<img src="Preview/horizontal.jpg" alt="Horizontal Layout" width="600">
 
-### Navigation Graph
-![Navigation Graph](Preview/nav.png)
-
-### Notes List
-![Notes List](Preview/notes.jpg)
+---
 
 ## 💻 System Requirements
 - **Android Studio:** Arctic Fox or newer.
